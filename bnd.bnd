@@ -1,0 +1,5 @@
+Bundle-SymbolicName: ${project.groupId}.${project.artifactId}
+Bundle-Name: ${project.name}
+Automatic-Module-Name: ${def;bsn}
+
+-exportcontents: de.no3x.core.*
